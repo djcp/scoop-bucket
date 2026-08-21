@@ -1,19 +1,19 @@
 {
-    "version": "1.6.0",
+    "version": "1.7.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/djcp/enplace/releases/download/v1.6.0/enplace_1.6.0_windows_386.zip",
+            "url": "https://github.com/djcp/enplace/releases/download/v1.7.0/enplace_1.7.0_windows_386.zip",
             "bin": [
                 "enplace.exe"
             ],
-            "hash": "21a2dac4eacfe5c592b8be307a9da96fcdc950c8b076f8e8c0285309379054ae"
+            "hash": "4b81b18836104a521810a9b2eaddc5eb032a9600993d0d1f938bf33687ec1c32"
         },
         "64bit": {
-            "url": "https://github.com/djcp/enplace/releases/download/v1.6.0/enplace_1.6.0_windows_amd64.zip",
+            "url": "https://github.com/djcp/enplace/releases/download/v1.7.0/enplace_1.7.0_windows_amd64.zip",
             "bin": [
                 "enplace.exe"
             ],
-            "hash": "042e00a5d2b5ed861e9cbbceae3ad5d74c58946d41e9299fe6f664618f36e07b"
+            "hash": "6dccc78162c937dc275ba28d43039eaba610e0923a48f6b8b87281bcd81c68d3"
         }
     },
     "homepage": "https://github.com/djcp/enplace",
